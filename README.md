@@ -13,8 +13,6 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   
-  <br><hr>
-  
   <h3> Tecnologias de interesse </h3>
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -24,6 +22,15 @@
   
   <br><hr>
   
+  <h2> Principais projetos </h3>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=shortakes&theme=radical"> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=habit-tracker&theme=radical">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=barbershop&theme=radical"> 
+ 
+  <br><hr>
+  
 </div>
+
+
 
 
