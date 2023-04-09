@@ -22,13 +22,6 @@
   
   <br><hr>
   
-  <h2> Principais projetos </h3>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=shortakes&theme=radical"> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=habit-tracker&theme=radical">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luhoro&repo=barbershop&theme=radical"> 
- 
-  <br><hr>
-  
 </div>
 
 
